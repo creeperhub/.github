@@ -1,5 +1,5 @@
 ![Welcome to CreeperHUB](https://i.imgur.com/MPkniUA.png)
-## What's CreeperHUB?
+## What's [CreeperHUB?](https://creeperhub.net) 
 
 CreeperHUB is the Hub (as the name suggests) of all Creepercraft and CreeperLAB related projects.
 At the moment we weill just make a showcase of all the Creepercraft/CreeperLAB domains/subdomains that we will use.
@@ -10,6 +10,7 @@ At the moment we weill just make a showcase of all the Creepercraft/CreeperLAB d
 👀[Creepercraft.xyz](https://creepercraft.xyz) (future main) <br>
 👀[Creepercraft.fun](https://creepercraft.fun) (second main) <br>
 👀[Creepercraft.store](https://creepercraft.store) (future store) <br>
+👀[Creeperhub.net](https://creeperhub.net) (the hub of the projects) <br>
 👀[Creepercraft.it](https://creepercraft.it) (w.i.p., only for IT players)<br>
 👀[Creepercraft.us.kg](https://creepercraft.us.kg) (will be used as url shortener) <br>
 👀[Creepercraft.carrd.co](https://creepercraft.carrd.co) (temp website for Creepercraft) <br>
