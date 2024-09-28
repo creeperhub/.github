@@ -1,4 +1,4 @@
-![Welcome to CreeperHUB](https://i.imgur.com/MPkniUA.png)
+![Welcome to CreeperHUB](https://i.imgur.com/DX4XGtb.png)
 ## What's [CreeperHUB?](https://creeperhub.net) 
 
 CreeperHUB is the Hub (as the name suggests) of all Creepercraft and CreeperLAB related projects.
