@@ -2,7 +2,7 @@
 ## What's [CreeperHUB?](https://creeperhub.net) 
 
 CreeperHUB is the Hub (as the name suggests) of all Creepercraft and CreeperLAB related projects.
-At the moment we weill just make a showcase of all the Creepercraft/CreeperLAB domains/subdomains that we will use.
+At the moment we will make just a showcase of all the Creepercraft/CreeperLAB domains/subdomains that we will use.
 
 ------------------------------------------
 
