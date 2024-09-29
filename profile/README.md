@@ -1,4 +1,4 @@
-![Welcome to CreeperHUB](https://i.imgur.com/DX4XGtb.png)
+ ![Welcome to CreeperHUB](https://i.imgur.com/DX4XGtb.png)
 ## What's [CreeperHUB?](https://creeperhub.net) 
 
 CreeperHUB is the Hub (as the name suggests) of all Creepercraft and CreeperLAB related projects.
@@ -29,6 +29,7 @@ BONUS: [Giocoliere](https://github.com/giocoliere)'s webistes [👑 of the proje
 👀[Giocoliere.link](https://giocoliere.link) (portfolio) [🪦: Aug 9, 2025]<br>
 👀[Giocoliere.xyz](https://giocoliere.xyz) (main) [🪦: Never]<br>
 👀[Gioco.lol](https://gioco.lol) (2nd main) [🪦: Never]<br>
+👀[Giocoliere.link](https://giocoliere.ovh) (3rd main) [🪦: Sep 29, 2025]<br>
 👀[Gioco.is-a.dev](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
 👀[Gioco.obl.ong](https://gioco.obl.ong) (placeholder) [🪦: Till [obl.ong](https://github.com/obl-ong) will explode]<br>
 👀[Gioco.us.kg](https://gioco.us.kg) (will be used as emails for personal use :p) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will explode]<br>
