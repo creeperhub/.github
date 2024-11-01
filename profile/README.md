@@ -1,4 +1,4 @@
- ![Welcome to CreeperHUB](#)
+ ![Welcome to CreeperHUB](https://raw.githubusercontent.com/creeperhub/.github/refs/heads/main/profile/thumb-1.jpeg)
 ## What's [CreeperHUB?](https://creeperhub.net) 
 
 CreeperHUB is the Hub (as the name suggests) of all [Giocoliere](https://github.com/giocoliere)'s related projects. <br>
