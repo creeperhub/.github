@@ -47,6 +47,14 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 -------------------------------------------
 -------------------------------------------
 
+| Descriptions of the titles | |
+| ------------- | ------------- |
+|  `/creeperhub`  |  Go to [creeperhub.net/creeperhub](https://creeperhub.net/creeperhub) and you will get here  |
+|  `/otakuforge`  |  Go to [creeperhub.net/otakuforge](https://creeperhub.net/otakuforge) and you will go to the Otakuforge repo  |
+|  `/creepercraft`  |  Go to [creeperhub.net/creepercraft](https://creeperhub.net/creepercraft) and you will go to the Creepercraft repo  |
+|  `/creeperlab`  |  Go to [creeperhub.net/creeperlab](https://creeperhub.net/creeperlab) and you will go to the CreeperLAB repo  |
+|  `BONUS (/giocoliere)`  |  Go to [creeperhub.net/giocoliere](https://creeperhub.net/giocoliere) and you will go to my Github profile ([@giocoliere](https://github.com/giocoliere))  |
+
 | Descriptions of the emojis | |
 | ------------- | ------------- |
 |  `🟢`  |  The domain is planned to be **kept** alive as long as possible  |
