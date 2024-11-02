@@ -35,7 +35,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 
 -------------------------------------------
 
-BONUS: [Giocoliere](https://github.com/giocoliere)'s webistes [👑 of the projects]
+ # BONUS: [Giocoliere](https://github.com/giocoliere)'s webistes [👑 of the projects]
 
 🔴[Giocoliere.link](https://giocoliere.link) (portfolio) [🪦: Aug 9, 2025]<br>
 🟢[Gioco.lol](https://gioco.lol) (main) [🪦: Never]<br>
