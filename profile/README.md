@@ -67,7 +67,7 @@ SURPRISE: 🟢[HumanaeLitterae](https://humanaelitterae.com) (The website of an 
 |  `/creeperlab`  |  Go to [creeperhub.net/creeperlab](https://creeperhub.net/creeperlab) and you will go to the CreeperLAB repo  |
 |  `BONUS: /giocoliere`  |  Go to [creeperhub.net/giocoliere](https://creeperhub.net/giocoliere) and you will go to my Github profile ([@giocoliere](https://github.com/giocoliere))  |
 |  `BONUS: /animania`  |  Go to [creeperhub.net/animania](https://creeperhub.net/animania) and you will go to the ([Animania](https://github.com/animaniamc)) org on github  |
-|  `BONUS: /hackercraft`  |  Go to [creeperhub.net/hackercraft](https://creeperhub.net/hackercraft) and you will go to the ([Hackercraft](https://github.com/hackercraftamc)) org on github  |
+|  `BONUS: /hackercraft`  |  Go to [creeperhub.net/hackercraft](https://creeperhub.net/hackercraft) and you will go to the ([Hackercraft](https://github.com/hackercraftmc)) org on github  |
 
 
 | Descriptions of the emojis | |
