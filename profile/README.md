@@ -8,7 +8,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 # /creeperhub
 
 🟢[CreeperHUB](https://creeperhub.net) (the hub of the projects) [🪦: Sep 9, 2025]<br>
-🟢[Creepers side-by-side](https://creepers.sbs) (a free subdomain service) [🪦: Dec 18, 2025]<br>
+🟢[creepers.sbs](https://github.com/creepersbs) (a free subdomain service) [🪦: Dec 18, 2025]<br>
 
 ------------------------------------------
 # /otakuforge
