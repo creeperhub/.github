@@ -63,6 +63,7 @@ SURPRISE: 🟢[HumanaeLitterae](https://humanaelitterae.com) (The website of an 
 | Descriptions of the titles | |
 | ------------- | ------------- |
 |  `/creeperhub`  |  Go to [creeperhub.net/creeperhub](https://creeperhub.net/creeperhub) and you will get here  |
+|  `/creepersbs`  |  Go to [creeperhub.net/creepersbs](https://creeperhub.net/creepersbs) and you will go to the creepers.sbs repo  |
 |  `/otakuforge`  |  Go to [creeperhub.net/otakuforge](https://creeperhub.net/otakuforge) and you will go to the Otakuforge repo  |
 |  `/creepercraft`  |  Go to [creeperhub.net/creepercraft](https://creeperhub.net/creepercraft) and you will go to the Creepercraft repo  |
 |  `/creeperlab`  |  Go to [creeperhub.net/creeperlab](https://creeperhub.net/creeperlab) and you will go to the CreeperLAB repo  |
