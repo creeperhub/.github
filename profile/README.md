@@ -30,7 +30,6 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 🟢[Creepercraft.store](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
 🔴[Creepercraft.it](https://creepercraft.it) (w.i.p., only for IT players) [🪦: Aug 22, 2025]<br>
 ❓[Creepercraft.us.kg](https://creepercraft.us.kg) (url shortener) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will work]<br>
-🔴[cc.obl.ong](https://cc.obl.ong) (url shortener) [🪦: till [obl.ong](https://codeberg.org/oblong) will work]<br>
 ❔[Animania](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more) [🪦: Sep 9, 2025]<br>
 ❔[Hackercraft](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more) [🪦: Sep 9,2025]<br>
 
