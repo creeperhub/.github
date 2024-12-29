@@ -8,13 +8,13 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 # /creeperhub
 
 🟢[CreeperHUB](https://creeperhub.net) (the hub of the projects) [🪦: Sep 9, 2025]<br>
-🟢[creepers.sbs](https://github.com/creepersbs) (a free subdomain service) [🪦: Dec 18, 2025]<br>
+⚪[creepers.sbs](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2025]<br>
 
 ------------------------------------------
 # /otakuforge
 
-🟢 [Otakuforge.moe](https://otakuforge.moe) (main) [🪦: Dec 7, 2025] <br>
-🟢 [Otakuforge.org](https://otakuforge.org) (2nd main) [🪦: Dec 7, 2025] <br>
+🟢 [Otakuforge.org](https://otakuforge.org) (main) [🪦: Dec 7, 2025] <br>
+🟢 [Otakuforge.moe](https://otakuforge.moe) (2nd main) [🪦: Dec 7, 2025] <br>
 🟢 [Otakuforge.lol](https://otakuforge.lol) (will be used as CDN) [🪦: Nov 1, 2025] <br>
 🟢 [OtakuTube](https://otaku.tube) (will be used for peertube) [🪦: Dec 7, 2025] <br>
 🟢 [MyOtaku](https://otaku.my) (will be used for mas/misskey) [🪦: Dec 7, 2025] <br>
@@ -23,11 +23,11 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 ------------------------------------------
 # /creepercraft
 
-🟢[Creepercraft.net](https://creepercraft.fun) (main) [🪦: Dec 8, 2025]<br>
+🟢[Creepercraft.net](https://creepercraft.net) (main) [🪦: Dec 8, 2025]<br>
 🟢[Creepercraft.fun](https://creepercraft.fun) (second main) [🪦: Aug 24, 2025]<br>
 🟢[Creepercraft.xyz](https://creepercraft.xyz) (CDN) [🪦: Aug 14, 2025]<br>
 🟢[Creepercraft.eu.org](https://creepercraft.eu.org) (backup) [🪦: Till 🌍 will explode] <br>
-🟢[Creepercraft.store](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
+⚪[Creepercraft.store](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
 🔴[Creepercraft.it](https://creepercraft.it) (w.i.p., only for IT players) [🪦: Aug 22, 2025]<br>
 ❓[Creepercraft.us.kg](https://creepercraft.us.kg) (url shortener) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will work]<br>
 ❔[Animania](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more) [🪦: Sep 9, 2025]<br>
@@ -36,7 +36,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 ------------------------------------------
 # /creeperlab
 
-🟢[CreeperLAB.org](https://creeperlab.xyz) (main) [🪦: Dec 7, 2025]<br>
+🟢[CreeperLAB.org](https://creeperlab.org) (main) [🪦: Dec 7, 2025]<br>
 🟢[CreeperLAB.xyz](https://creeperlab.xyz) (2nd main) [🪦: Aug 14, 2025]<br>
 ❓[CreeperLAB.us.kg](https://creeperlab.us.kg) (will be used as CDN) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will explode]<br>
 
@@ -45,15 +45,16 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
  # BONUS: [Giocoliere](https://creeperhub.net/giocoliere)'s webistes [👑 of the projects]
 
 🔴[Giocoliere.link](https://giocoliere.link) (portfolio) [🪦: Aug 9, 2025]<br>
-🟢[Gioco.lol](https://gioco.lol) (main) [🪦: Aug 24, 2025]<br>
 🟢[Giocoliere.dev](https://giocoliere.dev) (main) [🪦: Dec 7, 2025]<br>
-❔[Giocoliere.xyz](https://giocoliere.xyz) (2nd main) [🪦: Aug 14, 2025]<br>
-❓[Giocoliere.ovh](https://giocoliere.ovh) (3rd main) [🪦: Sep 29, 2025]<br>
+🟢[Gioco.lol](https://gioco.lol) (main but shorter) [🪦: Aug 24, 2025]<br>
+❔[Giocoliere.xyz](https://giocoliere.xyz) (2nd) [🪦: Aug 14, 2025]<br>
+🔴[Giocoliere.ovh](https://giocoliere.ovh) (3rd) [🪦: Sep 29, 2025]<br>
 ❔[Gioco.is-a.dev](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
 ❓[Gioco.us.kg](https://gioco.us.kg) (will be used as emails for personal use :p) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will explode]<br>
 
 -------------------------------------------
-SURPRISE: 🟢[HumanaeLitterae](https://humanaelitterae.com) (The website of an Italian writer I work for) [🪦: Hidden] 👀<br>
+SURPRISE: 🟢[HumanaeLitterae.com](https://humanaelitterae.com) (The website of an Italian writer I work for) [🪦: Hidden] 👀<br>
+SURPRISE: 🟢[HumanaeLitterae.it](https://humanaelitterae.it) (The website of an Italian writer I work for) [🪦: Hidden] 👀<br>
 
 -------------------------------------------
 
@@ -75,5 +76,6 @@ SURPRISE: 🟢[HumanaeLitterae](https://humanaelitterae.com) (The website of an 
 | ------------- | ------------- |
 |  `🟢`  |  The domain is planned to be **kept** alive as long as possible  |
 |  `🔴`  |  The domain reached his expiration will be **eliminated**  |
+|  `⚪`  |  I'm not sure if I will renew the domain or not, maybe it will get **eliminated**  |
 |  `❓`  |  The domain is gonna stand alive till the *opensource project* who owns those domains will work, then it will be **terminated**  |
 |  `❔`  |  The domain is gonna stay alive altho even if **useless** as long as i want  |
