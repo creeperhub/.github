@@ -36,7 +36,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 🟢[`Creepercraft.eu.org`](https://creepercraft.eu.org) (backup) [🪦: Till 🌍 will explode] <br>
 ⚪[`Creepercraft.store`](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
 🔴[`Creepercraft.it`](https://creepercraft.it) (w.i.p., only for IT players) [🪦: Aug 22, 2025]<br>
-❓[`Creepercraft.us.kg`](https://creepercraft.us.kg) (url shortener) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will work]<br>
+❓/⚙️[`Creepercraft.us.kg`](https://creepercraft.us.kg) (url shortener) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will work]<br>
 ❔[`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more) [🪦: Sep 9, 2025]<br>
 ❔[`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more) [🪦: Sep 9,2025]<br>
 
@@ -45,7 +45,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 
 🟢[`CreeperLAB.org`](https://creeperlab.org) (main) [🪦: Dec 7, 2025]<br>
 🟢[`CreeperLAB.xyz`](https://creeperlab.xyz) (2nd main) [🪦: Aug 14, 2025]<br>
-❓[`CreeperLAB.us.kg`](https://creeperlab.us.kg) (will be used as CDN) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will explode]<br>
+❓/⚙️[`CreeperLAB.us.kg`](https://creeperlab.us.kg) (will be used as CDN) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will explode]<br>
 
 -------------------------------------------
 
@@ -57,7 +57,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 ❔[`Giocoliere.xyz`](https://giocoliere.xyz) (2nd) [🪦: Aug 14, 2025]<br>
 🔴[`Giocoliere.ovh`](https://giocoliere.ovh) (3rd) [🪦: Sep 29, 2025]<br>
 ❔[`Gioco.is-a.dev`](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
-❓[`Gioco.us.kg`](https://gioco.us.kg) (will be used as emails for personal use :p) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will explode]<br>
+❓/⚙️[`Gioco.us.kg`](https://gioco.us.kg) (will be used as emails for personal use :p) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) will explode]<br>
 
 
 ------------------------------------------
@@ -78,8 +78,9 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 
 | Descriptions of the emojis | |
 | ------------- | ------------- |
+|  `⚙️`  |  Temporany issue due to **maintance**/**error**  |
 |  `🟢`  |  The domain is planned to be **kept** alive as long as possible  |
 |  `🔴`  |  The domain reached his expiration will be **eliminated**  |
-|  `⚪`  |  I'm not sure if I will renew the domain or not, maybe it will get **eliminated**  |
+|  `⚪`  |  The domain existance will depend based on the **popularity** of the service  |
 |  `❓`  |  The domain is gonna stand alive till the *opensource project* who owns those domains will work, then it will be **terminated**  |
 |  `❔`  |  The domain is gonna stay alive altho even if **useless** as long as i want  |
