@@ -9,7 +9,8 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 
 🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects) [🪦: Sep 9, 2025]<br>
 ⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2025]<br>
-
+⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2026]<br>
+⚪[`askfor.pics`](https://github.com/creepersbs) (another free link-in-bio service) [🪦: Apr 18, 2026]<br>
 
 -------------------------------------------
 ## /humanaelitterae
