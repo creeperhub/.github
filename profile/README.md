@@ -11,6 +11,12 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 ⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2025]<br>
 ⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2026]<br>
 ⚪[`askfor.pics`](https://github.com/creepersbs) (another free link-in-bio service, not for OF models: 'the name is a pure joke') [🪦: Apr 18, 2026]<br>
+⚪ [`Shrinkify`](https://shrinkify.club) (will be used for a url shrinker service) [🪦: Jun 28, 2026] <br>
+⚪ [`Shrinkify`](https://shrinkify.vip) (second domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shrinkify`](http://shrify.ink/) (third domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shrinkify`](http://shorrt.run/) (fourth domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shrinkify`](http://tinyy.dev/) (fifth domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shrinkify`](http://shorrt.xyz/) (sixth domain of Shrinkify) [🪦: Jun 28, 2026] <br>
 
 -------------------------------------------
 ## /humanaelitterae
@@ -26,6 +32,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 🟢 [`Otakuforge.lol`](https://otakuforge.lol) (will be used as CDN and backend) [🪦: Nov 1, 2025] <br>
 🟢 [`OtakuTube`](https://otaku.tube) (will be used for a custom peertube istance, dedicated mainly to anime-jp-manga-tech topics) [🪦: Dec 7, 2025] <br>
 🟢 [`MyOtaku`](https://otaku.my) (will be used for an oauth2, an articles service and a link-in-bio service) [🪦: Dec 7, 2025] <br>
+🟢 [`OtakuHelp`](https://otaku.help) (will be used for a help center, as well it will handle the backend of the main website) [🪦: Jun 28, 2026] <br>
 
 
 ------------------------------------------
