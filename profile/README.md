@@ -12,11 +12,11 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 ⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2026]<br>
 ⚪[`askfor.pics`](https://github.com/creepersbs) (another free link-in-bio service, not for OF models: 'the name is a pure joke') [🪦: Apr 18, 2026]<br>
 ⚪ [`Shrinkify`](https://shrinkify.club) (will be used for a url shrinker service) [🪦: Jun 28, 2026] <br>
-⚪ [`Shrinkify`](https://shrinkify.vip) (second domain of Shrinkify) [🪦: Jun 28, 2026] <br>
-⚪ [`Shrinkify`](http://shrify.ink/) (third domain of Shrinkify) [🪦: Jun 28, 2026] <br>
-⚪ [`Shrinkify`](http://shorrt.run/) (fourth domain of Shrinkify) [🪦: Jun 28, 2026] <br>
-⚪ [`Shrinkify`](http://tinyy.dev/) (fifth domain of Shrinkify) [🪦: Jun 28, 2026] <br>
-⚪ [`Shrinkify`](http://shorrt.xyz/) (sixth domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shrinkify.Vip`](https://shrinkify.vip) (2nd domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shrify.ink`](http://shrify.ink/) (3rd domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shorrt.run`](http://shorrt.run/) (4th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Tinyy.dev`](http://tinyy.dev/) (5th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shorrt.xyz`](http://shorrt.xyz/) (6th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
 
 -------------------------------------------
 ## /humanaelitterae
