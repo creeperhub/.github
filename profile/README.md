@@ -16,7 +16,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 ⚪ [`Shrinkify.Vip`](https://shrinkify.vip) (2nd domain of Shrinkify) [🪦: Jun 28, 2026] <br>
 ⚪ [`Shrify.ink`](http://shrify.ink/) (3rd domain of Shrinkify) [🪦: Jun 28, 2026] <br>
 ⚪ [`Shorrt.run`](http://shorrt.run/) (4th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
-⚪ [`Shorrt.xyz`](http://shorrt.xyz/) (6th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
+⚪ [`Shorrt.xyz`](http://shorrt.xyz/) (5th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
 
 -------------------------------------------
 ## /humanaelitterae
