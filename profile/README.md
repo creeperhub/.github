@@ -23,7 +23,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ⚪ [`Shorrt.xyz`](http://shorrt.xyz/) (5th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
 
 -------------------------------------------
-## [/humanaelitterae
+## [/humanaelitterae](https://creeperhub.net/humanaelitterae)
 🟢[`HumanaeLitterae.com`](https://humanaelitterae.com) (The main website of an Italian writer I work for) [🪦: Hidden] 👀<br>
 🟢[`HumanaeLitterae.it`](https://humanaelitterae.it) (The second website of an Italian writer I work for) [🪦: Hidden] 👀<br>
 
