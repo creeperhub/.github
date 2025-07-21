@@ -1,14 +1,18 @@
- [![Welcome to CreeperHUB](https://raw.githubusercontent.com/creeperhub/.github/refs/heads/main/profile/thumb-1.jpeg)](https://creeperhub.net/creepersbs)
+ [![Welcome to CreeperHUB](https://raw.githubusercontent.com/creeperhub/.github/refs/heads/main/profile/bannerV1.png)](https://creeperhub.net)
 # What's [`CreeperHUB?`](https://creeperhub.net) 
 
-CreeperHUB is the Hub (as the name suggests) of all [**`Giocoliere`**](https://github.com/giocoliere)'s related projects. <br>
-At the moment we will make just a showcase of all the domains/subdomains that I am using.
+CreeperHUB started as the Hub (as the name suggests) of all [**`Giocoliere`**](https://github.com/giocoliere)'s related projects. <br>
+At the moment this README is just a showcase of all the domains that CreeperHUB uses. [_**`You can check it out also here`**_](https://creeperhub.net/domains)
 
 ------------------------------------------
-## /creeperhub
+## [/creeperhub](https://creeperhub.net/creeperhub)
 
 🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website [W.I.P.]) [🪦: Sep 9, 2025]<br>
 🟢 [`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
+
+-------------------------------------------
+## [/creepersbs](https://creeperhub.net/creepersbs)
+
 ⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2025]<br>
 ⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2026]<br>
 ⚪[`askfor.pics`](https://github.com/creepersbs) (another free link-in-bio service, not for OF models: 'the name is a pure joke') [🪦: Apr 18, 2026]<br>
@@ -19,13 +23,13 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 ⚪ [`Shorrt.xyz`](http://shorrt.xyz/) (5th domain of Shrinkify) [🪦: Jun 28, 2026] <br>
 
 -------------------------------------------
-## /humanaelitterae
+## [/humanaelitterae
 🟢[`HumanaeLitterae.com`](https://humanaelitterae.com) (The main website of an Italian writer I work for) [🪦: Hidden] 👀<br>
 🟢[`HumanaeLitterae.it`](https://humanaelitterae.it) (The second website of an Italian writer I work for) [🪦: Hidden] 👀<br>
 
 -------------------------------------------
 
-## /otakuforge
+## [/otakuforge](https://creeperhub.net/otakuforge)
 
 🟢 [`Otakuforge.org`](https://otakuforge.org) (main, will be used to explain how the project works) [🪦: Dec 7, 2025] <br>
 🟢 [`Otakuforge.moe`](https://otakuforge.moe) (will be used for a new social similar to twitter with new custom features) [🪦: Dec 7, 2025] <br>
@@ -36,7 +40,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 
 
 ------------------------------------------
-## /creepercraft
+## [/creepercraft](https://creeperhub.net/creepercraft)
 
 🟢[`Creepercraft.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2025]<br>
 🟢[`Creepercraft.fun`](https://creepercraft.fun) (second main, will be used to show the new custom modes and features creepercraft will offer) [🪦: Aug 24, 2025]<br>
@@ -55,7 +59,7 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 🪦[`hackercraft.obl.ong`](https://obl.ong/) (used as hackercraft CDN domain) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
 
 ------------------------------------------
-## /creeperlab
+## [/creeperlab](https://creeperhub.net/creeperlab)
 
 🟢[`CreeperLAB.org`](https://creeperlab.org) (main, will be used for a network of minecraft servers, devs, owners and founders and more) [🪦: Dec 7, 2025]<br>
 🔴[`CreeperLAB.xyz`](https://creeperlab.xyz) (2nd main, used for backup of the main website) [🪦: Aug 14, 2025]<br>
@@ -86,9 +90,9 @@ At the moment we will make just a showcase of all the domains/subdomains that I 
 
 | Descriptions of the titles | |
 | ------------- | ------------- |
-|  `/creeperhub`  |  Go to [creeperhub.net/creeperhub](https://creeperhub.net/creeperhub) and you will get here  |
-|  `/humanaelitterae`  |  Go to [creeperhub.net/humanaelitterae](https://creeperhub.net/humanaelitterae) and you will go to that actual website  |
-|  `/creepersbs`  |  Go to [creeperhub.net/creepersbs](https://creeperhub.net/creepersbs) and you will go to the creepers.sbs repo  |
+|  `/creeperhub`  |  Go to [creeperhub.net/creeperhub](https://creeperhub.net/creeperhub) and you will get to this page  |
+|  `/creepersbs`  |  Go to [creeperhub.net/creepersbs](https://creeperhub.net/creeperhub) and you will get to the creepers.sbs repo  |
+|  `/humanaelitterae`  |  Go to [creeperhub.net/humanaelitterae](https://creeperhub.net/humanaelitterae) and you will go to the website  |
 |  `/otakuforge`  |  Go to [creeperhub.net/otakuforge](https://creeperhub.net/otakuforge) and you will go to the Otakuforge repo  |
 |  `/creepercraft`  |  Go to [creeperhub.net/creepercraft](https://creeperhub.net/creepercraft) and you will go to the Creepercraft repo  |
 |  `/creeperlab`  |  Go to [creeperhub.net/creeperlab](https://creeperhub.net/creeperlab) and you will go to the CreeperLAB repo  |
