@@ -8,7 +8,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ## [/creeperhub](https://creeperhub.net/creeperhub)
 
 🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website [W.I.P.]) [🪦: Sep 9, 2025]<br>
-🟢 [`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
+🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
 
 -------------------------------------------
 ## [/creepersbs](https://creeperhub.net/creepersbs)
@@ -25,7 +25,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 -------------------------------------------
 ## [/humanaelitterae](https://creeperhub.net/humanaelitterae)
 🟢[`HumanaeLitterae.com`](https://humanaelitterae.com) (The main website of an Italian writer I work for) [🪦: Hidden] 👀<br>
-🟢[`HumanaeLitterae.it`](https://humanaelitterae.it) (The second website of an Italian writer I work for) [🪦: Hidden] 👀<br>
+🔴[`HumanaeLitterae.it`](https://humanaelitterae.it) (The second website of an Italian writer I work for) [🪦: Hidden] 👀<br>
 
 -------------------------------------------
 
@@ -43,17 +43,17 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ## [/creepercraft](https://creeperhub.net/creepercraft)
 
 🟢[`Creepercraft.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2025]<br>
-🟢[`Creepercraft.fun`](https://creepercraft.fun) (second main, will be used to show the new custom modes and features creepercraft will offer) [🪦: Aug 24, 2025]<br>
-❔[`Creepercraft.xyz`](https://creepercraft.xyz) (CDN for the minecraft services) [🪦: Aug 14, 2025]<br>
 ❓[`Creepercraft.eu.org`](https://creepercraft.eu.org) (backup of the main website) [🪦: Till 🌍 will explode] <br>
-⚪/⚙️[`Creepercraft.store`](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
-❔[`Creepercraft.it`](https://creepercraft.it) (w.i.p., only for IT players) [🪦: Aug 22, 2025]<br>
+🔴[`Creepercraft.fun`](https://creepercraft.fun) (second main, will be used to show the new custom modes and features creepercraft will offer) [🪦: Aug 24, 2025]<br>
+🔴[`Creepercraft.xyz`](https://creepercraft.xyz) (CDN for the minecraft services) [🪦: Aug 14, 2025]<br>
+🔴[`Creepercraft.store`](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
+🔴[`Creepercraft.it`](https://creepercraft.it) (w.i.p., only for IT players) [🪦: Aug 22, 2025]<br>
 ❔[`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more [W.I.P.]) [🪦: Sep 9, 2025]<br>
 ❔[`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more [W.I.P.]) [🪦: Sep 9,2025]<br>
 
 ### 🪦 Creepercraft Domains: 
 🪦[`Creepercraft.us.kg`](https://creepercraft.us.kg) (url shortener ...not so short) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) was free]<br>
-❓/🪦[`cc.obl.ong`](https://cc.obl.ong) (url shortener...) [🪦: Till [obl.ong](https://github.com/obl-ong) will work]<br>
+🪦[`cc.obl.ong`](https://cc.obl.ong) (url shortener...) [🪦: Till [obl.ong](https://github.com/obl-ong) will work]<br>
 🪦[`creepercraft.obl.ong`](https://obl.ong/) (used as backup domain) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
 🪦[`animania.obl.ong`](https://obl.ong/) (used as animania CDN domain) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
 🪦[`hackercraft.obl.ong`](https://obl.ong/) (used as hackercraft CDN domain) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
@@ -76,7 +76,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 🟢[`Giocoliere.dev`](https://giocoliere.dev) (main) [🪦: Dec 7, 2025]<br>
 🟢[`Gioco.lol`](https://gioco.lol) (main but shorter, used also for other things as a shorter domain can be useful :D) [🪦: Aug 24, 2025]<br>
 ❓[`Gioco.is-a.dev`](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
-❔[`Giocoliere.xyz`](https://giocoliere.xyz) (backup) [🪦: Aug 14, 2025]<br>
+🔴[`Giocoliere.xyz`](https://giocoliere.xyz) (backup) [🪦: Aug 14, 2025]<br>
 🔴[`Giocoliere.link`](https://giocoliere.link) (portfolio, kinda) [🪦: Aug 9, 2025]<br>
 🔴[`Giocoliere.ovh`](https://giocoliere.ovh) (tests) [🪦: Sep 29, 2025]<br>
 
@@ -108,5 +108,4 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 |  `🔴`  |  The domain reached its expiration will be **eliminated**  |
 |  `⚪`  |  The domain existance will depend based on the **popularity** of the service  |
 |  `❓`  |  The domain is gonna stand alive till the *opensource project* who owns those domains will work, then it will be **terminated**  |
-|  `❔`  |  The domain is gonna stay alive altho even if **useless** as long as i want  |
-|  `🪦`  |  The domain (may have) reached its expiration and got **eliminated** (in any case it doesn't work anymore  |
+|  `🪦`  |  The domain (may have) reached its expiration and got **eliminated** (in any case it doesn't work anymore) |
