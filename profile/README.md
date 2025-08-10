@@ -7,7 +7,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ------------------------------------------
 ## [/creeperhub](https://creeperhub.net/creeperhub)
 
-🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website [W.I.P.]) [🪦: Sep 9, 2025]<br>
+🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website [W.I.P.]) [🪦: Sep 9, 2026]<br>
 🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
 
 -------------------------------------------
@@ -73,7 +73,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ## BONUS: [Giocoliere](https://creeperhub.net/giocoliere)'s webistes [👑 of the projects]
 
 🟢[`Giocoliere.dev`](https://giocoliere.dev) (main) [🪦: Dec 7, 2025]<br>
-🟢[`Gioco.lol`](https://gioco.lol) (main but shorter, used also for other things as a shorter domain can be useful :D) [🪦: Aug 24, 2025]<br>
+🟢[`Gioco.lol`](https://gioco.lol) (main but shorter, used also for other things as a shorter domain can be useful :D) [🪦: Aug 24, 2026]<br>
 ❓[`Gioco.is-a.dev`](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
 
 
