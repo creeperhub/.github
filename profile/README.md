@@ -9,6 +9,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 
 🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website [W.I.P.]) [🪦: Sep 9, 2026]<br>
 🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
+🟢[`Creativitatis`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2026 <br>
 
 -------------------------------------------
 ## [/creepersbs](https://creeperhub.net/creepersbs)
