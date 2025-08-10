@@ -44,14 +44,14 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 
 🟢[`Creepercraft.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2025]<br>
 ❓[`Creepercraft.eu.org`](https://creepercraft.eu.org) (backup of the main website) [🪦: Till 🌍 will explode] <br>
-🔴[`Creepercraft.fun`](https://creepercraft.fun) (second main, will be used to show the new custom modes and features creepercraft will offer) [🪦: Aug 24, 2025]<br>
-🔴[`Creepercraft.xyz`](https://creepercraft.xyz) (CDN for the minecraft services) [🪦: Aug 14, 2025]<br>
-🔴[`Creepercraft.store`](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
-🔴[`Creepercraft.it`](https://creepercraft.it) (w.i.p., only for IT players) [🪦: Aug 22, 2025]<br>
 ❔[`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more [W.I.P.]) [🪦: Sep 9, 2025]<br>
 ❔[`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more [W.I.P.]) [🪦: Sep 9,2025]<br>
 
 ### 🪦 Creepercraft Domains: 
+🪦[`Creepercraft.fun`](https://creepercraft.fun) (second main, used to show the new custom modes and features creepercraft will offer) [🪦: Aug 24, 2025]<br>
+🪦[`Creepercraft.xyz`](https://creepercraft.xyz) (CDN for the minecraft services) [🪦: Aug 14, 2025]<br>
+🪦[`Creepercraft.store`](https://creepercraft.store) (future mc server store) [🪦: Aug 14, 2025]<br>
+🪦[`Creepercraft.it`](https://creepercraft.it) (only for IT players) [🪦: Aug 22, 2025]<br>
 🪦[`Creepercraft.us.kg`](https://creepercraft.us.kg) (url shortener ...not so short) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) was free]<br>
 🪦[`cc.obl.ong`](https://cc.obl.ong) (url shortener...) [🪦: Till [obl.ong](https://github.com/obl-ong) will work]<br>
 🪦[`creepercraft.obl.ong`](https://obl.ong/) (used as backup domain) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
@@ -62,12 +62,11 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ## [/creeperlab](https://creeperhub.net/creeperlab)
 
 🟢[`CreeperLAB.org`](https://creeperlab.org) (main, will be used for a network of minecraft servers, devs, owners and founders and more) [🪦: Dec 7, 2025]<br>
-🔴[`CreeperLAB.xyz`](https://creeperlab.xyz) (2nd main, used for backup of the main website) [🪦: Aug 14, 2025]<br>
 
 ### 🪦 CreeperLAB Domains:
 🪦[`CreeperLAB.us.kg`](https://creeperlab.us.kg) (used as CDN for the main service) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) was free]<br>
 🪦[`creeperlab.obl.ong`](https://web.archive.org/web/20240814021002/https://creeperlab.obl.ong/) (was url shortener) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
-
+🪦[`CreeperLAB.xyz`](https://creeperlab.xyz) (2nd main, used for backup of the main website) [🪦: Aug 14, 2025]<br>
 
 -------------------------------------------
 
@@ -76,14 +75,14 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 🟢[`Giocoliere.dev`](https://giocoliere.dev) (main) [🪦: Dec 7, 2025]<br>
 🟢[`Gioco.lol`](https://gioco.lol) (main but shorter, used also for other things as a shorter domain can be useful :D) [🪦: Aug 24, 2025]<br>
 ❓[`Gioco.is-a.dev`](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
-🔴[`Giocoliere.xyz`](https://giocoliere.xyz) (backup) [🪦: Aug 14, 2025]<br>
-🔴[`Giocoliere.link`](https://giocoliere.link) (portfolio, kinda) [🪦: Aug 9, 2025]<br>
-🔴[`Giocoliere.ovh`](https://giocoliere.ovh) (tests) [🪦: Sep 29, 2025]<br>
+
 
 ### 🪦 Giocoliere Domains:
 🪦[`Gioco.us.kg`](https://gioco.us.kg) (used as emails for personal use when it was free) [🪦: Till [us.kg](https://github.com/DigitalPlatDev/US.KG) was free]<br>
 🪦[`gioco.obl.ong`](https://web.archive.org/web/20240825195911/https://gioco.obl.ong/) (used as another backup domain) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
-
+🪦[`Giocoliere.xyz`](https://giocoliere.xyz) (backup) [🪦: Aug 14, 2025]<br>
+🪦[`Giocoliere.link`](https://giocoliere.link) (portfolio, kinda) [🪦: Aug 9, 2025]<br>
+🪦[`Giocoliere.ovh`](https://giocoliere.ovh) (tests) [🪦: Sep 29, 2025]<br>
 
 ------------------------------------------
 -------------------------------------------
