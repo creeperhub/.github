@@ -1,5 +1,5 @@
  [![Welcome to CreeperHUB](https://raw.githubusercontent.com/creeperhub/.github/refs/heads/main/profile/bannerV1.png)](https://creeperhub.net)
-# What's [`CreeperHUB?`](https://creeperhub.net) 
+# What's [`CreeperHUB?`](https://creeperhub.net)  [![img](https://custom-icon-badges.demolab.com/badge/powered_by-creeperhub-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
 
 CreeperHUB started as the Hub (as the name suggests) of all [**`Giocoliere`**](https://github.com/giocoliere)'s related projects. <br>
 At the moment this README is just a showcase of all the domains that CreeperHUB uses. [_**`You can check it out also here`**_](https://creeperhub.net/domains)
