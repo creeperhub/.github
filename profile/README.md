@@ -6,14 +6,16 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ------------------------------------------
 ## [/creeperhub](https://creeperhub.net/creeperhub)
 
-🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website [W.I.P.]) [🪦: Sep 9, 2026]<br>
+🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website) [🪦: Sep 9, 2026]<br>
+🟢[`CreeperHUB.com`](https://creeperhub.com) (2nd domain for CreeperHUB) [🪦: Sep 21, 2026]<br>
 🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
+🟢[`MCLink`](https://mc-l.ink) (Short URL for Minecraft related content) [🪦: Sep 21, 2026]<br>
 🟢[`Creativitatis`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2026 <br>
 
 -------------------------------------------
 ## [/creepersbs](https://creeperhub.net/creepersbs)
 
-⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2025]<br>
+⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2026]<br>
 ⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2026]<br>
 ⚪[`askfor.pics`](https://github.com/creepersbs) (another free link-in-bio service, not for OF models: 'the name is a pure joke') [🪦: Apr 18, 2026]<br>
 ⚪ [`Shrinkify`](https://shrinkify.club) (will be used for a url shrinker service) [🪦: Jun 28, 2026] <br>
@@ -31,21 +33,21 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 
 ## [/otakuforge](https://creeperhub.net/otakuforge)
 
-🟢 [`Otakuforge.org`](https://otakuforge.org) (main, will be used to explain how the project works) [🪦: Dec 7, 2025] <br>
-🟢 [`Otakuforge.moe`](https://otakuforge.moe) (will be used for a new social similar to twitter with new custom features) [🪦: Dec 7, 2025] <br>
-🟢 [`Otakuforge.lol`](https://otakuforge.lol) (will be used as CDN and backend) [🪦: Nov 1, 2025] <br>
-🟢 [`OtakuTube`](https://otaku.tube) (will be used for a custom peertube istance, dedicated mainly to anime-jp-manga-tech topics) [🪦: Dec 7, 2025] <br>
-🟢 [`MyOtaku`](https://otaku.my) (will be used for an oauth2, an articles service and a link-in-bio service) [🪦: Dec 7, 2025] <br>
+🟢 [`Otakuforge.org`](https://otakuforge.org) (main, will be used to explain how the project works) [🪦: Dec 7, 2026] <br>
+🟢 [`Otakuforge.moe`](https://otakuforge.moe) (will be used for a new social similar to twitter with new custom features) [🪦: Dec 7, 2026] <br>
+🟢 [`Otakuforge.lol`](https://otakuforge.lol) (will be used as CDN and backend) [🪦: Nov 1, 2026] <br>
+🟢 [`OtakuTube`](https://otaku.tube) (will be used for a custom peertube istance, dedicated mainly to anime-jp-manga-tech topics) [🪦: Dec 7, 2026] <br>
+🟢 [`MyOtaku`](https://otaku.my) (will be used for an oauth2, an articles service and a link-in-bio service) [🪦: Dec 7, 2026] <br>
 🟢 [`OtakuHelp`](https://otaku.help) (will be used for a help center, as well it will handle the backend of the main website) [🪦: Jun 28, 2026] <br>
 
 
 ------------------------------------------
 ## [/creepercraft](https://creeperhub.net/creepercraft)
 
-🟢[`Creepercraft.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2025]<br>
+🟢[`Creepercraft.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2026]<br>
 ❓[`Creepercraft.eu.org`](https://creepercraft.eu.org) (backup of the main website) [🪦: Till 🌍 will explode] <br>
-❔[`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more [W.I.P.]) [🪦: Sep 9, 2025]<br>
-❔[`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more [W.I.P.]) [🪦: Sep 9,2025]<br>
+❔[`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more [W.I.P.]) [🪦: Dec 8, 2026]<br>
+❔[`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more [W.I.P.]) [🪦: Dec 8,2026]<br>
 
 ### 🪦 Creepercraft Domains: 
 🪦[`Creepercraft.fun`](https://creepercraft.fun) (second main, used to show the new custom modes and features creepercraft will offer) [🪦: Aug 24, 2025]<br>
@@ -72,7 +74,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 
 ## BONUS: [Giocoliere](https://creeperhub.net/giocoliere)'s webistes [👑 of the projects]
 
-🟢[`Giocoliere.dev`](https://giocoliere.dev) (main) [🪦: Dec 7, 2025]<br>
+🟢[`Giocoliere.dev`](https://giocoliere.dev) (main) [🪦: Dec 7, 2026]<br>
 🟢[`Gioco.lol`](https://gioco.lol) (main but shorter, used also for other things as a shorter domain can be useful :D) [🪦: Aug 24, 2026]<br>
 ❓[`Gioco.is-a.dev`](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
 
