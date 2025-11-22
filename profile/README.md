@@ -89,17 +89,6 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 ------------------------------------------
 -------------------------------------------
 
-| Descriptions of the titles | |
-| ------------- | ------------- |
-|  `/creeperhub`  |  Go to [creeperhub.net/creeperhub](https://creeperhub.net/creeperhub) and you will get to this page  |
-|  `/creepersbs`  |  Go to [creeperhub.net/creepersbs](https://creeperhub.net/creeperhub) and you will get to the creepers.sbs repo  |
-|  `/humanaelitterae`  |  Go to [creeperhub.net/humanaelitterae](https://creeperhub.net/humanaelitterae) and you will go to the website  |
-|  `/otakuforge`  |  Go to [creeperhub.net/otakuforge](https://creeperhub.net/otakuforge) and you will go to the Otakuforge repo  |
-|  `/creepercraft`  |  Go to [creeperhub.net/creepercraft](https://creeperhub.net/creepercraft) and you will go to the Creepercraft repo  |
-|  `/creeperlab`  |  Go to [creeperhub.net/creeperlab](https://creeperhub.net/creeperlab) and you will go to the CreeperLAB repo  |
-|  `BONUS: /giocoliere`  |  Go to [creeperhub.net/giocoliere](https://creeperhub.net/giocoliere) and you will go to my Github profile ([@giocoliere](https://github.com/giocoliere))  |
-|  `BONUS: /animania`  |  Go to [creeperhub.net/animania](https://creeperhub.net/animania) and you will go to the ([Animania](https://github.com/animaniamc)) org on github  |
-|  `BONUS: /hackercraft`  |  Go to [creeperhub.net/hackercraft](https://creeperhub.net/hackercraft) and you will go to the ([Hackercraft](https://github.com/hackercraftmc)) org on github  |
 
 
 | Descriptions of the emojis | |
