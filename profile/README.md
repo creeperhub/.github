@@ -4,7 +4,7 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`Giocoliere`**](h
 At the moment this README is just a showcase of all the domains that CreeperHUB uses. [_**`You can check it out also here`**_](https://creeperhub.net/domains)
 
 ------------------------------------------
-## [/creeperhub](https://creeperhub.net/creeperhub)
+## [/creeperhub](https://creeperhub.net/creeperhub) • [@creeperhub](https://github.com/creeperhub)
 
 🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website) [🪦: Sep 9, 2026]<br>
 🟢[`CreeperHUB.com`](https://creeperhub.com) (2nd domain for CreeperHUB) [🪦: Sep 21, 2026]<br>
@@ -13,7 +13,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 🟢[`Creativitatis`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2026 <br>
 
 -------------------------------------------
-## [/creepersbs](https://creeperhub.net/creepersbs)
+## [/creepersbs](https://creeperhub.net/creepersbs) • [@creepersbs](https://github.com/creepersbs)
 
 ⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2026]<br>
 ⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2026]<br>
@@ -31,7 +31,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 
 -------------------------------------------
 
-## [/otakuforge](https://creeperhub.net/otakuforge)
+## [/otakuforge](https://creeperhub.net/otakuforge) • [@otakuforge](https://github.com/otakuforge)
 
 🟢 [`Otakuforge.org`](https://otakuforge.org) (main, will be used to explain how the project works) [🪦: Dec 7, 2026] <br>
 🟢 [`Otakuforge.moe`](https://otakuforge.moe) (will be used for a new social similar to twitter with new custom features) [🪦: Dec 7, 2026] <br>
@@ -42,7 +42,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 
 
 ------------------------------------------
-## [/creepercraft](https://creeperhub.net/creepercraft)
+## [/creepercraft](https://creeperhub.net/creepercraft) • [@creepercraftnet](https://github.com/creepercraftnet)
 
 🟢[`Creepercraft.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2026]<br>
 ❓[`Creepercraft.eu.org`](https://creepercraft.eu.org) (backup of the main website) [🪦: Till 🌍 will explode] <br>
@@ -61,7 +61,7 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 🪦[`hackercraft.obl.ong`](https://obl.ong/) (used as hackercraft CDN domain) [🪦: Till [obl.ong](https://github.com/obl-ong) was working]<br>
 
 ------------------------------------------
-## [/creeperlab](https://creeperhub.net/creeperlab)
+## [/creeperlab](https://creeperhub.net/creeperlab) • [@creeperlab](https://github.com/creeperlab)
 
 🟢[`CreeperLAB.org`](https://creeperlab.org) (main, will be used for a network of minecraft servers, devs, owners and founders and more) [🪦: Dec 7, 2025]<br>
 
