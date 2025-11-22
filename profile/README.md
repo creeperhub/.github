@@ -1,7 +1,10 @@
  [![Welcome to CreeperHUB](https://raw.githubusercontent.com/creeperhub/.github/refs/heads/main/profile/bannerV1.png)](https://creeperhub.net)
 # What's [`CreeperHUB?`](https://creeperhub.net)  [![img](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
 CreeperHUB started as the Hub (as the name suggests) of all [**`Giocoliere`**](https://github.com/giocoliere)'s related projects. <br>
-At the moment this README is just a showcase of all the domains that CreeperHUB uses. [_**`You can check it out also here`**_](https://creeperhub.net/domains)
+
+
+>[!NOTE]
+>This Domain List is outdated, until it will be found a good replacement for the main README.md file of this Github profile you can check out the official [**`CreeperHUB Domain Registry`**](https://creeperhub.net/domains) for the updated used domain list.
 
 ------------------------------------------
 ## [/creeperhub](https://creeperhub.net/creeperhub) • [@creeperhub](https://github.com/creeperhub)
@@ -11,6 +14,8 @@ At the moment this README is just a showcase of all the domains that CreeperHUB 
 🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
 🟢[`MCLink`](https://mc-l.ink) (Short URL for Minecraft related content) [🪦: Sep 21, 2026]<br>
 🟢[`Creativitatis`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2026 <br>
+🟢[`Creativitatis.click`](https://creativitatis.click) (Short URL + Email URLS) [🪦: Nov 11, 2026 <br>
+🟢[`Creativitatis.blog`](https://creativitatis.blog) (Creativitatis Blogs) [🪦: Nov 11, 2026 <br>
 
 -------------------------------------------
 ## [/creepersbs](https://creeperhub.net/creepersbs) • [@creepersbs](https://github.com/creepersbs)
