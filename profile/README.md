@@ -25,6 +25,10 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 ⚪[`creepers.pro`](https://github.com/creepersbs) (another free subdomain service) [🪦: Feb 23, 2027]<br>
 ⚪[`creepers.lol`](https://github.com/creepersbs) (another free subdomain service) [🪦: Feb 23, 2027]<br>
 ⚪[`askfor.pics`](https://github.com/creepersbs) (another free link-in-bio service, not for OF models: 'the name is a pure joke') [🪦: Apr 18, 2027]<br>
+
+-------------------------------------------
+## [/shrinkify](https://creeperhub.net/shrinkify) • [@shrinkify](https://github.com/shrinkify)
+
 ⚪[`Shrinkify`](https://shrinkify.club) (will be used for a url shrinker service) [🪦: Jun 28, 2027] <br>
 ⚪[`Shrinkify.Vip`](https://shrinkify.vip) (2nd domain of Shrinkify) [🪦: Jun 28, 2027] <br>
 ⚪[`Shrify.ink`](http://shrify.ink/) (3rd domain of Shrinkify) [🪦: Jun 28, 2027] <br>
