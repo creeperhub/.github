@@ -2,6 +2,8 @@
 # What's [`CreeperHUB?`](https://creeperhub.net)  [![img](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
 CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](https://github.com/giocoliere)'s related projects. <br>
 
+>[!WARNING]
+>All of our services will slowly move from CreeperHUB to Creativitatis. It's a "rebrand" :)
 
 >[!NOTE]
 >This Domain List is outdated, until it will be found a good replacement for the main README.md file of this Github profile you can check out the official [**`CreeperHUB Domain Registry`**](https://creeperhub.net/domains) for the updated used domain list.
