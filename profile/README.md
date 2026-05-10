@@ -3,7 +3,7 @@
 CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](https://github.com/giocoliere)'s related projects. <br>
 
 >[!WARNING]
->All of our services will slowly move from CreeperHUB to Creativitatis. It's a "rebrand" :)
+>All of our services will slowly move from CreeperHUB to [**`@creativitatis`**](https://github.com/creativitatis). It's a "rebrand" :)
 
 >[!NOTE]
 >This Domain List is outdated, until it will be found a good replacement for the main README.md file of this Github profile you can check out the official [**`CreeperHUB Domain Registry`**](https://creeperhub.net/domains) for the updated used domain list.
@@ -25,7 +25,7 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 ⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2027]<br>
 ⚪[`creepers.pro`](https://github.com/creepersbs) (another free subdomain service) [🪦: Feb 23, 2027]<br>
 ⚪[`creepers.lol`](https://github.com/creepersbs) (another free subdomain service) [🪦: Feb 23, 2027]<br>
-⚪[`run-it.tech`](https://github.com/creepersbs) (another free subdomain service) [🪦: May 3, 2027]<br>
+⚪[`run-it.tech`](https://github.com/creepersbs) (this service is just a test ... It won't stick more than 1 year [depends on the popularity]) [🪦: May 3, 2027]<br>
 
 --------------------------------------------
 ## [/askforpics](https://creeperhub.net/aspforpics) • [@askforpics](https://github.com/askforpics)
