@@ -13,19 +13,20 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 
 🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website) [🪦: Sep 9, 2026]<br>
 🟢[`CreeperHUB.com`](https://creeperhub.com) (2nd domain for CreeperHUB) [🪦: Sep 21, 2026]<br>
-🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2026] <br>
-🟢[`Creativitatis`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2026] <br>
+🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2027] <br>
+🟢[`Creativitatis`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2027] <br>
 🔴[`Creativitatis.click`](https://creativitatis.click) (Short URL + Email URLS) [🪦: Nov 22, 2026] <br>
 🟢[`Creativitatis.blog`](https://creativitatis.blog) (Creativitatis Blogs) [🪦: Nov 22, 2026] <br>
 
 -------------------------------------------
 ## [/creepersbs](https://creeperhub.net/creepersbs) • [@creepersbs](https://github.com/creepersbs)
 
-⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2026]<br>
+⚪[`creepers.sbs`](https://github.com/creepersbs) (another free subdomain service) [🪦: Dec 18, 2027]<br>
 ⚪[`creepers.cloud`](https://github.com/creepersbs) (2nd domain for creepers.sbs users) [🪦: Apr 19, 2027]<br>
-⚪[`creepers.pro`](https://github.com/creepersbs) (another free subdomain service) [🪦: Feb 23, 2027]<br>
-⚪[`creepers.lol`](https://github.com/creepersbs) (another free subdomain service) [🪦: Feb 23, 2027]<br>
+⚪[`creepers.pro`](https://github.com/creepersbs) (3rd domain for creepers.sbs users) [🪦: Feb 23, 2027]<br>
+⚪[`creepers.lol`](https://github.com/creepersbs) (4th domain for creepers.sbs users) [🪦: Feb 23, 2027]<br>
 🔴[`run-it.tech`](https://github.com/creepersbs) (this service is just a test ... It won't stick more than 1 year [depends on the popularity]) [🪦: May 3, 2027]<br>
+⚪[`a-dev.sbs`](https://github.com/creepersbs) (5th domain for creepers.sbs users) [🪦: Jun 1, 2027]<br>
 
 --------------------------------------------
 ## [/askforpics](https://creeperhub.net/aspforpics) • [@askforpics](https://github.com/askforpics)
@@ -76,6 +77,7 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 
 🟢[`Giocoliere.dev`](https://giocoliere.dev) (main) [🪦: Dec 7, 2026]<br>
 🟢[`Gioco.help`](https://gioco.help) (main but shorter, used also for other things as a shorter domain can be useful :D) [🪦: Aug 24, 2027]<br>
+❔[`juggler.blog`](https://juggler.blog) (blog of the juggler, ye it's me) [🪦: Jun 1, 2027]<br>
 🔴[`Gioco.lol`](https://gioco.lol) (replaced by gioco.help) [🪦: Feb 23, 2027]<br>
 ❓[`Gioco.is-a.dev`](https://gioco.is-a.dev) (ex main, still working) [🪦: Till [is-a.dev](https://github.com/is-a-dev) will work]<br>
 
