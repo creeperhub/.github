@@ -11,7 +11,7 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 ------------------------------------------
 ## [/creeperhub](https://creeperhub.net/creeperhub) • [@creeperhub](https://github.com/creeperhub)
 
-🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website) [🪦: Sep 9, 2026]<br>
+🟢[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website) [🪦: Sep 9, 2027]<br>
 🟢[`CreeperHUB.com`](https://creeperhub.com) (2nd domain for CreeperHUB) [🪦: Sep 21, 2026]<br>
 🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2027] <br>
 🟢[`Creativitatis`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2027] <br>
@@ -61,7 +61,7 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 ## [/creepercraft](https://creeperhub.net/creepercraft) • [@creepercraftnet](https://github.com/creepercraftnet)
 
 🟢[`Creepercraft.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2026]<br>
-🟢[`MCLink`](https://mc-l.ink) (Short URL for Minecraft related content) [🪦: Sep 21, 2026]<br>
+🔴[`MCLink`](https://mc-l.ink) (Short URL for Minecraft related content, will be used a subdomain from Creepercraft) [🪦: Sep 21, 2026]<br>
 ❓[`Creepercraft.eu.org`](https://creepercraft.eu.org) (backup of the main website) [🪦: Till 🌍 will explode] <br>
 [`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more [W.I.P.]) [🪦: Check CH]<br>
 [`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more [W.I.P.]) [🪦: Check CH]<br>
