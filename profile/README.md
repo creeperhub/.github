@@ -12,7 +12,7 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 ## [/creeperhub](https://creeperhub.net/creeperhub) • [@creeperhub](https://github.com/creeperhub)
 
 ⚙️[`CreeperHUB`](https://creeperhub.net) (the hub of the projects and website) [🪦: Sep 9, 2027]<br>
-🟢[`CreeperHUB.com`](https://creeperhub.com) (2nd domain for CreeperHUB) [🪦: Sep 21, 2026]<br>
+🟢[`CreeperHUB.com`](https://creeperhub.com) (2nd domain for CreeperHUB) [🪦: Sep 21, 2027]<br>
 🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB) [🪦: Jun 28, 2027] <br>
 🟢[`CREATIVITATIS`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2027] <br>
 🔴[`CREATIVITATIS.click`](https://creativitatis.click) (Short URL + Email URLS) [🪦: Nov 22, 2026] <br>
@@ -52,7 +52,6 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 
 ⚙️ [`Otakuforge.org`](https://otakuforge.org) (main, will be used to explain how the project works) [🪦: Dec 7, 2026] <br>
 ⚪ [`Otakuforge.moe`](https://otakuforge.moe) (will be used for a new social similar to twitter with new custom features) [🪦: Dec 7, 2026] <br>
-🔴 [`Otakuforge.lol`](https://otakuforge.lol) (will be used as CDN and backend) [🪦: Nov 1, 2026] <br>
 ⚪ [`OtakuTube`](https://otaku.tube) (will be used for a custom peertube istance, dedicated mainly to anime-jp-manga-tech topics) [🪦: Dec 7, 2026] <br>
 ⚪ [`MyOtaku`](https://otaku.my) (will be used for an oauth2, an articles service and a link-in-bio service) [🪦: Dec 7, 2026] <br>
 ⚪ [`OtakuHelp`](https://otaku.help) (will be used for a help center, as well it will handle the backend of the main website) [🪦: Jun 28, 2027] <br>
@@ -63,8 +62,8 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 
 🟢[`CREEPERCRAFT.net`](https://creepercraft.net) (main, will be used as website and domain for the minecraft server) [🪦: Dec 8, 2026]<br>
 ❓[`CREEPERCRAFT.eu.org`](https://creepercraft.eu.org) (backend, etc) [🪦: Till 🌍 will explode] <br>
->- [`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more [W.I.P.]) [🪦: Check CH]<br>
->- [`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more [W.I.P.]) [🪦: Check CH]<br>
+> - [`Animania`](https://creeperhub.net/animania) (look at [github.com/animaniamc](https://github.com/animaniamc) to find out more [W.I.P.]) [🪦: Check CH]<br>
+> - [`Hackercraft`](https://creeperhub.net/hackercraft) (look at [github.com/hackercraftmc](https://github.com/hackercraftmc) to find out more [W.I.P.]) [🪦: Check CH]<br>
 
 ------------------------------------------
 ## [/creeperlab](https://creeperhub.net/creeperlab) • [@creeperlab](https://github.com/creeperlab)
