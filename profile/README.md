@@ -15,7 +15,7 @@ CreeperHUB started as the Hub (as the name suggests) of all [**`@giocoliere`**](
 ⚙️[`CreeperHUB.net`](https://creeperhub.net) (2nd domain, hosts the website) [🪦: Sep 9, 2027]<br>
 🟢[`Tinyy.dev`](http://tinyy.dev/) (Short domain for CreeperHUB/CREATIVITATIS) [🪦: Jun 28, 2027] <br>
 🟢[`CREATIVITATIS`](https://creativitatis.dev) ("Creativity at it's best" 👀) [🪦: Aug 10, 2027] <br>
-⚙️[`CREATIVITATIS BLOGS`](https://blog.creativitatis.dev) (CREATIVITATIS Blogs) [🪦: Nov 22, 2026] <br>
+⚙️[`CREATIVITATIS BLOG`](https://blog.creativitatis.dev) (CREATIVITATIS Blogs) [🪦: Nov 22, 2026] <br>
 ⚙️[`CREATIVITATIS STUDIO`](https://studio.creativitatis.dev) (CREATIVITATIS, the game studio) [🪦: Aug 17, 2027] <br>
 
 -------------------------------------------
